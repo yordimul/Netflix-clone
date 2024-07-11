@@ -7,7 +7,7 @@ export const Home = () => {
   return (<>
     <Header/>
     <Banner/>
-      <RowList/>
+    <RowList/>
     <Footer/>
     </>
   )
